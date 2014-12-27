@@ -1,23 +1,9 @@
 # Swiss Canton Iconfont
 
-> Still in active development!
+Serve the 26 Swiss Cantons in a simple icon font
 
-## Usage
+> FYI: This ist the `gh-pages` branch. It contains the demo page which you can find [here](http://stefanzweifel.github.io/swiss-canton-iconfont/). If you search the iconfont it self, switch to the `master` branch.
 
-- Reference `css/style.css` in your project.
-- Add `sc-icon-{SHORTHAND}` to your project. (replace `{SHORTHAND}` with abbreviation of your choosen canton, e.g `zh` for Zurich, `vs` for Valais)
+## Contribution to the Demo Page
 
-## ToDo
-
-- Create Bower Package to simplify installation
-- Create SASS and LESS files to change Class-Handler to your needs
-- Create Github-Pages-Branch to show a demo
-
-## Credits
-
-- Source SVG File: [http://commons.wikimedia.org/wiki/File:Unverj%C3%A4hrbarkeitsinitiative_Resultat_Kantonskarte.svg](http://commons.wikimedia.org/wiki/File:Unverj%C3%A4hrbarkeitsinitiative_Resultat_Kantonskarte.svg)
-- Font-Files created by [IcoMoon](https://icomoon.io/)
-
-## License
-
-MIT, 2014 Stefan Zweifel
+This page was quickly build to showcase the icon font in action. It's just the default jekyll theme and could need a refreshment. If you're a designer and have a creative idea on how to showcase icons, create a pull-request or let me know.
