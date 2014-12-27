@@ -1,0 +1,26 @@
+{
+  "name": "swiss-canton-iconfont",
+  "version": "0.1.0",
+  "homepage": "https://github.com/stefanzweifel/swiss-canton-iconfont",
+  "authors": [
+    "Stefan Zweifel <hello@stefanzweifel.io>"
+  ],
+  "description": "Serve swiss cantons maps as icon font",
+  "main": "dist/*",
+  "ignore": [],
+  "keywords": [
+    "icon",
+    "icon",
+    "iconfont",
+    "swiss",
+    "switzerland"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
