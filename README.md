@@ -1,6 +1,6 @@
 # Swiss Canton Iconfont
 
-> Still in active development!
+[Demo](http://stefanzweifel.github.io/swiss-canton-iconfont/demo.html)
 
 ## Usage
 
@@ -11,7 +11,17 @@
 
 - Create Bower Package to simplify installation
 - Create SASS and LESS files to change Class-Handler to your needs
-- Create Github-Pages-Branch to show a demo
+
+# I want to create this for my own country
+
+While developing the icon font I realised how easy it is!
+
+- Get a SVG file of your country
+- Open the file in Sketch.app or something similiar
+- Export single layers as SVG
+- Import single files to [IcoMoon](https://icomoon.io/)
+- Name it and export as font
+- Done
 
 ## Credits
 
