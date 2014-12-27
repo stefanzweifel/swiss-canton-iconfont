@@ -4,12 +4,12 @@
 
 ## Usage
 
-- Reference `css/style.css` in your project.
+- Install by `bower install swiss-canton-iconfont --save`
+- Reference `dist/css/style.css` in your project. (`dist/fonts/*` must also be available)
 - Add `sc-icon-{SHORTHAND}` to your project. (replace `{SHORTHAND}` with abbreviation of your choosen canton, e.g `zh` for Zurich, `vs` for Valais)
 
 ## ToDo
 
-- Create Bower Package to simplify installation
 - Create SASS and LESS files to change Class-Handler to your needs
 
 # I want to create this for my own country
