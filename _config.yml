@@ -2,7 +2,7 @@
 title: Swiss Canton Iconfont
 email: hello@stefanzweifel.io
 description: Serve the 26 Swiss Cantons in a simple icon font
-# baseurl: "/swiss-canton-iconfont" # the subpath of your site, e.g. /blog/
+baseurl: "/swiss-canton-iconfont" # the subpath of your site, e.g. /blog/
 url: "http://stefanzweifel.github.io" # the base hostname & protocol for your site
 
 github_username: stefanzweifel

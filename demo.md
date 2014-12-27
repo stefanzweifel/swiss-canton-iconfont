@@ -29,6 +29,8 @@ bonus: [
 
 
 # Cantons
+All 26 Cantons of Switzerland.
+
 <table class="demo-table">
     {% for row in page.data %}
         <tr>
@@ -45,6 +47,8 @@ bonus: [
 </table>
 
 # Bonus: Lakes
+The source SVG also contained all major lakes of switzerland. These are also available in the icon font. The naming of the icon could change in the future.
+
 <table class="demo-table">
     {% for row in page.bonus %}
         <tr>
